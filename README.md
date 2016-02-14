@@ -1,4 +1,3 @@
 # AltspaceVR projects
 
-altspacevr-looper.html
-Music Looper for AltspaceVR SDK
+- altspacevr-looper.html = Music Looper for AltspaceVR SDK
